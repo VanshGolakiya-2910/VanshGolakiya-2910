@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VanshGolakiya-2910
-- 👀 I’m interested in Full stack Developemnt and Cyber Securit.
+- 👀 I’m interested in Full stack Developemnt and Cyber Security.
 - 🌱 I’m currently learning Node JS , angluar JS and DJango
 - 💞️ I’m looking to collaborate on any web development of cyber security project
 - 📫 How to reach me? You can reach by my mail vanshgolakiya5011@gmail.com  
