@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VanshGolakiya-2910
 - 👀 I’m interested in Full stack Developemnt and Cyber Security.
 - 🌱 I’m currently learning Node JS , angluar JS and DJango
-- 💞️ I’m looking to collaborate on any web development of cyber security project
+- 💞️ I’m looking to collaborate on any web development or cyber security project
 - 📫 How to reach me? You can reach by my mail vanshgolakiya5011@gmail.com  
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I like Data Science too.
