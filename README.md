@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Exploring new ideas through multiple side projects**
 
-- 🌱 I’m currently learning **Blue Team Cybersecurity**
+- 🌱 I’m currently learning **Red Team Cybersecurity**
 
 - 👯 I’m looking to collaborate on **Open-source tools related to security or developer productivity**
 
