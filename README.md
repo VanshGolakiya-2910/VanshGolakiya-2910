@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vansh Golakiya</h1>
 <h3 align="center">Full-Stack Web Developer | Aspiring Cybersecurity Engineer</h3>
 
-- 🔭 I’m currently working on **Exploring new ideas through multiple side projects**
+- I’m currently working on **One of my major security and systems project**
 
-- 🌱 I’m currently learning **Red Team Cybersecurity**
+- I’m currently learning **Red Team Cybersecurity**
 
-- 👯 I’m looking to collaborate on **Open-source tools related to security or developer productivity**
+- I’m looking to collaborate on **Open-source tools related to security or developer productivity**
 
-- 🤝 I’m looking for help with **SOC workflows and real-world incident response**
+- Ask me about **Full-stack development (MERN stack), Backend APIs, system design, SQL, database design, Web vulnerabilities, secure coding practices**
 
-- 💬 Ask me about **Full-stack development (MERN stack) Backend APIs and system design SQL and database design Web vulnerabilities and secure coding practices SOC concepts and general cybersecurity fundamentals**
+- How to reach me **vanshgolakiya11@gmail.com**
 
-- 📫 How to reach me **vanshgolakiya11@gmail.com**
-
-- ⚡ Fun fact **I enjoy breaking and securing my own projects to understand systems better before deploying them.**
+- Fun fact **I enjoy breaking and securing my own projects to understand systems better before deploying them.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
